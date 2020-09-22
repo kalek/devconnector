@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://dkalek:Kl6mVOtYINEyPQxr@cluster0.m9vop.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://dkalek:Kl6mVOtYINEyPQxr@cluster0.m9vop.mongodb.net/devconnector?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
